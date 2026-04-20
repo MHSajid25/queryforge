@@ -1,6 +1,6 @@
 # queryforge
 
-A collection of production-style SQL workflows focused on analytics, reporting, and data transformation.
+A structured collection of production-style SQL workflows used in analytics, reporting, and data transformation systems.
 
 ## Overview
 
